@@ -1,2 +1,2 @@
 # aws-nodejs
-AWS NodeJS server with CodeDeploy
+AWS Node.js server with CodeDeploy
